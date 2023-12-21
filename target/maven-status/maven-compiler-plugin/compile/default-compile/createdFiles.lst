@@ -1,0 +1,17 @@
+edu/uoc/epcsd/user/repositories/UserRepository.class
+edu/uoc/epcsd/user/UserApplication.class
+edu/uoc/epcsd/user/controllers/dtos/GetUserResponse$GetUserResponseBuilder.class
+edu/uoc/epcsd/user/repositories/AlertRepository.class
+edu/uoc/epcsd/user/entities/User.class
+edu/uoc/epcsd/user/entities/Alert.class
+edu/uoc/epcsd/user/controllers/dtos/CreateUserRequest.class
+edu/uoc/epcsd/user/controllers/AlertController.class
+edu/uoc/epcsd/user/entities/User$UserBuilder.class
+edu/uoc/epcsd/user/services/UserService.class
+edu/uoc/epcsd/user/services/AlertService.class
+edu/uoc/epcsd/user/controllers/dtos/GetProductResponse.class
+edu/uoc/epcsd/user/controllers/UserController.class
+edu/uoc/epcsd/user/controllers/dtos/GetUserResponse.class
+edu/uoc/epcsd/user/controllers/dtos/GetProductResponse$GetProductResponseBuilder.class
+edu/uoc/epcsd/user/entities/Alert$AlertBuilder.class
+edu/uoc/epcsd/user/controllers/dtos/CreateAlertRequest.class

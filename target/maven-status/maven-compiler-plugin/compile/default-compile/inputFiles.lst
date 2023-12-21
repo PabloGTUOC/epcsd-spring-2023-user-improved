@@ -1,0 +1,13 @@
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/services/UserService.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/repositories/UserRepository.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/services/AlertService.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/controllers/dtos/GetProductResponse.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/controllers/AlertController.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/controllers/dtos/GetUserResponse.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/UserApplication.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/controllers/dtos/CreateUserRequest.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/entities/Alert.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/controllers/dtos/CreateAlertRequest.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/controllers/UserController.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/entities/User.java
+/Users/pablogtorres/Desktop/SA/epcsd-spring-2023/epcsd-spring-2023-user-improved/src/main/java/edu/uoc/epcsd/user/repositories/AlertRepository.java
